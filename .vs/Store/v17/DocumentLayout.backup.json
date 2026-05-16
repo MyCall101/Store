@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp\\Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|d:\\csharp\\store\\store\\database\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|solutionrelative:store\\database\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|d:\\csharp\\store\\store\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|solutionrelative:store\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|d:\\csharp\\store\\store\\classes\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|solutionrelative:store\\classes\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|D:\\csharp\\Store\\store\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|solutionrelative:store\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|d:\\csharp\\store\\store\\methods\\lstfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|solutionrelative:store\\methods\\lstfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|d:\\csharp\\store\\store\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|solutionrelative:store\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|D:\\csharp\\Store\\store\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|solutionrelative:store\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|d:\\csharp\\store\\store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|solutionrelative:store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|d:\\csharp\\store\\store\\database\\dbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBFDE06-F490-4E60-A728-57EABAA0E793}|Store\\Store.csproj|solutionrelative:store\\database\\dbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\csharp\\Store\\Store\\Main.cs",
+              "RelativeDocumentMoniker": "Store\\Main.cs",
+              "ToolTip": "D:\\csharp\\Store\\Store\\Main.cs",
+              "RelativeToolTip": "Store\\Main.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAYwA0BAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T01:55:10.807Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LstFunction.cs",
+              "DocumentMoniker": "D:\\csharp\\Store\\Store\\Methods\\LstFunction.cs",
+              "RelativeDocumentMoniker": "Store\\Methods\\LstFunction.cs",
+              "ToolTip": "D:\\csharp\\Store\\Store\\Methods\\LstFunction.cs",
+              "RelativeToolTip": "Store\\Methods\\LstFunction.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T08:19:33.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\csharp\\Store\\Store\\Classes\\Item.cs",
+              "RelativeDocumentMoniker": "Store\\Classes\\Item.cs",
+              "ToolTip": "D:\\csharp\\Store\\Store\\Classes\\Item.cs",
+              "RelativeToolTip": "Store\\Classes\\Item.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T07:29:45.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\csharp\\Store\\Store\\Main.cs",
+              "RelativeDocumentMoniker": "Store\\Main.cs",
+              "ToolTip": "D:\\csharp\\Store\\Store\\Main.cs [Design]",
+              "RelativeToolTip": "Store\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T22:18:18.285Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Actions.cs",
+              "DocumentMoniker": "D:\\csharp\\Store\\Store\\Database\\Actions.cs",
+              "RelativeDocumentMoniker": "Store\\Database\\Actions.cs",
+              "ToolTip": "D:\\csharp\\Store\\Store\\Database\\Actions.cs",
+              "RelativeToolTip": "Store\\Database\\Actions.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAADAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:04:20.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\csharp\\Store\\Store\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "Store\\Forms\\Login.cs",
+              "ToolTip": "D:\\csharp\\Store\\Store\\Forms\\Login.cs",
+              "RelativeToolTip": "Store\\Forms\\Login.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAG4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:38:22.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp\\Store\\Store\\Program.cs",
+              "RelativeDocumentMoniker": "Store\\Program.cs",
+              "ToolTip": "D:\\csharp\\Store\\Store\\Program.cs",
+              "RelativeToolTip": "Store\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T01:47:28.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\csharp\\Store\\Store\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "Store\\Forms\\Login.cs",
+              "ToolTip": "D:\\csharp\\Store\\Store\\Forms\\Login.cs [Design]",
+              "RelativeToolTip": "Store\\Forms\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T01:41:10.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBCon.cs",
+              "DocumentMoniker": "D:\\csharp\\Store\\Store\\Database\\DBCon.cs",
+              "RelativeDocumentMoniker": "Store\\Database\\DBCon.cs",
+              "ToolTip": "D:\\csharp\\Store\\Store\\Database\\DBCon.cs",
+              "RelativeToolTip": "Store\\Database\\DBCon.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAEwBMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:11:41.774Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
